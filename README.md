@@ -1,7 +1,7 @@
 
 # Projeto Agendamento
 
-Pojeto desenvolvido baseado nas aulas do curso de PHP do modulo intermediario. PHP do Zero ao Profissional.
+Projeto desenvolvido baseado nas aulas do curso de PHP do modulo intermediario. PHP do Zero ao Profissional.
 
 O sistema foi criado para uso coletivo em empresas/escritórios.
 O objetivo do sistema é deixar agendado um possivel não comparecimento ao
